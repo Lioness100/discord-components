@@ -1,0 +1,132 @@
+{
+	"name": "Discord Components Samples",
+	"short_name": "Discord Components",
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#2A2A2A",
+	"lang": "en",
+	"scope": "/",
+	"categories": ["discord", "library", "webcomponents", "lit", "components", "html", "documentation"],
+	"description": "Samples for @skyra/discord-components-core",
+	"orientation": "portrait-primary",
+	"theme_color": "#EEEEEE",
+	"icons": [
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-36x36.png",
+			"sizes": "36x36",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-48x48.png",
+			"sizes": "48x48",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-72x72.png",
+			"sizes": "72x72",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-96x96.png",
+			"sizes": "96x96",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-144x144.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-256x256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-384x384.png",
+			"sizes": "384x384",
+			"type": "image/png"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"dir": "ltr",
+	"shortcuts": [
+		{
+			"name": "Discord Components Samples",
+			"short_name": "Discord Components",
+			"description": "Go to the Discord Components samples",
+			"url": "/",
+			"icons": [
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-36x36.png",
+					"sizes": "36x36",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-48x48.png",
+					"sizes": "48x48",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-72x72.png",
+					"sizes": "72x72",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-96x96.png",
+					"sizes": "96x96",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-144x144.png",
+					"sizes": "144x144",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-192x192.png",
+					"sizes": "192x192",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-256x256.png",
+					"sizes": "256x256",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-384x384.png",
+					"sizes": "384x384",
+					"type": "image/png"
+				},
+				{
+					"src": "https://discord-components.js.org/icons/android-chrome-512x512.png",
+					"sizes": "512x512",
+					"type": "image/png"
+				}
+			]
+		}
+	],
+	"screenshots": [
+		{
+			"src": "https://discord-components.js.org/icons/pwa-richinstall-screenshot-desktop.png",
+			"sizes": "1280x640",
+			"type": "image/png",
+			"form_factor": "wide",
+			"label": "Discord Components Samples"
+		},
+		{
+			"src": "https://discord-components.js.org/icons/pwa-richinstall-screenshot-mobile.png",
+			"sizes": "390x844",
+			"type": "image/png",
+			"form_factor": "narrow",
+			"label": "Discord Components Samples"
+		}
+	]
+}

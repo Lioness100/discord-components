@@ -2,6 +2,9 @@
 index.html
 index.js
 index.css
+public/favicon.ico
+public/manifest.webmanifest
+public/icons/*
 
 # Output
 build/
